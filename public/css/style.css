@@ -12,7 +12,7 @@
 
 #gallery img{
   width: 720px;
-  height: 170px;
+  height: 200px;
 }
 .slider h2,
 .slider h5{
@@ -22,6 +22,6 @@
 @media(max-width: 600px) {
   #gallery img{
     width: 720px;
-    height: 378px;
+    height: 350px;
   }
 }
